@@ -45,7 +45,7 @@ To create a new Web API application, you can run the following command
 dotnet new auth0api [options]
 ```
 
-This will create a new MVC application in the current folder. The following template-speficic options are available:
+This will create a new MVC application in the current folder. The following template-specific options are available:
 
 
 Option | Description | 
